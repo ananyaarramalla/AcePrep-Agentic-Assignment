@@ -172,5 +172,6 @@ Visit http://localhost:3000 to view the application.
 
 ---
 
-**Author:** Ananya Arramalla  
+**Author:** Ananya Arramalla
+
 *Submitted for Eightfold.ai AI Agent Assignment*
