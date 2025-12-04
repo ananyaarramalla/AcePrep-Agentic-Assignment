@@ -164,11 +164,11 @@ Visit http://localhost:3000 to view the application.
 
 ## 🧪 Testing The Flow
 
-1.  **Sign In:** Access the dashboard via the login page.
-2.  **Generate:** Click "Start New Interview". Speak to the voice agent to set your preferences (Role, Tech Stack, etc.).
-3.  **Verify:** Check the Firestore database to see the JSON object created with your specific questions.
-4.  **Interview:** Enter the interview room and complete the mock session with the AI agent.
-5.  **Feedback:** Wait ~10 seconds after ending the call to see the generated feedback card with scores and improvements.
+- 1.  **Sign In:** Access the dashboard via the login page.
+- 2.  **Generate:** Click "Start New Interview". Speak to the voice agent to set your preferences (Role, Tech Stack, etc.).
+- 3.  **Verify:** Check the Firestore database to see the JSON object created with your specific questions.
+- 4.  **Interview:** Enter the interview room and complete the mock session with the AI agent.
+- 5.  **Feedback:** Wait ~10 seconds after ending the call to see the generated feedback card with scores and improvements.
 
 ---
 
